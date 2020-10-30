@@ -1,3 +1,8 @@
+
+## finalized transactions and event log from local node
+<img width="1645" alt="Screen Shot 2020-10-31 at 4 23 22 AM" src="https://user-images.githubusercontent.com/18153854/97763396-80039d00-1b31-11eb-8734-75ad79a2837d.png">
+
+
 🧑‍💻 [BEGINNER CHALLENGE] Run a private Substrate network
 
 Use Substrate to run a private local network.
